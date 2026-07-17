@@ -50,10 +50,6 @@ jupyter lab
 
 所有实验都在玩具数据上进行，**CPU 即可运行**，无需下载数据集和预训练权重。
 
-## 关于 build_*.py
-
-`build_NN.py` 是各 notebook 的生成脚本（notebook 即代码的构建产物），日常学习直接打开 `.ipynb` 即可。`build_all.py` 已废弃，仅存档。
-
 ## License
 
 MIT
